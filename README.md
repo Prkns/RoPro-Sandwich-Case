@@ -4,7 +4,9 @@ What is the RoPro?
 
 Shortest and easiest answer is a 75key fully customisable, ortholinear mechanical keyboard that recently completed it's round 1 group buy. The only thing missing from this incredible keyboard is a "sandwich" layer type case to fill the gap between the top PCB and bottom PCB case (especially if you're running some tasty underglow LED's).
 
-![%|](/Renders/RoPro-AcrylicCase_Render.png 'RoPro Render')
+![%|](/Renders/RoPro-AcrylicCase_Render.png 'RoPro Case Render')
+
+![%|](/Renders/RoPro-AcrylicCase_Build.png 'RoPro Case Build')
 
 For this exact reason, i decided to make one up and release it to the world to cut yourself (if you have the ability), or to send onto a [company](#production) who can do to do the legwork for you.
 
